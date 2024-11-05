@@ -1,0 +1,29 @@
+.back{
+    background-color: #C2EFD4;
+}
+.text{
+    color: #224F34 !important;
+}
+.bg{
+    background-color: #224F34;
+}
+.head{
+    font-size: 50px;
+  font-family:serif;
+}
+.dis{
+    font-size: 85px;
+    font-weight: 600;
+    color: #224F34;
+    font-family: serif;
+}
+.exp{
+    font-size: 34px;
+    color: #267D49;
+    padding: 40px 0px;
+}
+a:hover{
+    background-color: #267D49;
+    color: white !important;
+    border-radius: 10px;
+}
